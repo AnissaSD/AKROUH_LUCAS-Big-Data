@@ -9,6 +9,5 @@ Ce projet consiste à analyser le fichier `tags.csv` avec Hadoop (MapReduce) pou
 ## 📂 Contenu du dépôt
 
 - `scripts/` : scripts Python (MapReduce)
-- `data/` : fichier de test (sample)
 - `results/` : résultats obtenus
 - `LUCAS_AKROUH.md` : compte rendu de l'examen
